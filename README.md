@@ -1,3 +1,5 @@
+
+
 # Face-Recognition-Attendance-System
 
 # Motivation
@@ -10,25 +12,24 @@ We seek to provide a valuable attendance service for both teachers and students.
     • Automatic Email
 
 # Tech Used
-Build With -
-    Python 3.6
-Module Used -
-All The Module are Latest Version.
-    OpenCV 
-    dlib
-    openpyxl 
-    sqlite3
-    Pillow
-    Numpy
-    Pandas
-    Tkinter
-    CSV
-    smtplib
-Face Recognition Algorithms -
-    shape_predictor
-    face_recognition_model_v1
-Software Used -
-    Pycharm 2020.2
-	
-	
+    Build With -
+    • Python 3.6
+    Module Used -
+    All The Module are Latest Version.
+    • OpenCV 
+    • dlib
+    • openpyxl 
+    • sqlite3
+    • Pillow
+    • Numpy
+    • Pandas
+    • Tkinter
+    • CSV
+    • smtplib
+    Face Recognition Algorithms -
+    • shape_predictor
+    • face_recognition_model_v1
+    Software Used -
+    • Pycharm 2020.2
       
+
