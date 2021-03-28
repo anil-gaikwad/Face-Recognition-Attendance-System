@@ -31,4 +31,3 @@ Face Recognition Algorithms -
 Software Used -
     • Pycharm 2020.2
       
-
